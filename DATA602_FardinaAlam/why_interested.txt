@@ -1,0 +1,4 @@
+Why are you interested in taking DATA602?
+
+I am very interested in topics related to Natural Language Processing like computational linguistics, transformers, psycholinguistics and transformers from cognitive standpoint. But in order to precisely program an industry-grade NLP project, it is quite essential for me to follow the data science lifecycle.
+DATA602 would help me wrangle, explore, visualize and understand data. As we move on to further lectures, there are topics in deep learning too- that can help me improve my standards in writing clean and efficient code. DATA602 is also a project-driven course, essentially getting me to focus on a single large project throughout the semester so that I can dedicate much of my time to address a problem statement.

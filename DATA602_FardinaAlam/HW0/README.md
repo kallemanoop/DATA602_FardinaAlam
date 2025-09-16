@@ -1,5 +1,5 @@
 # HW0: Computing Environment
-.
+
 ## Objective
 
 Throughout the semester, you will work with various software packages, including Python, Pandas, Jupyter Notebook, Google Colab, PyTorch, and others. Installing these packages and managing software dependencies can sometimes be challenging. This assignment focuses on ensuring you have the necessary tools installed and working properly. Installing those packages and getting started can often be a hassle because of software dependencies.
